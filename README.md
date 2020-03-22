@@ -49,7 +49,7 @@ Download source code from here.
 
 Run code on your local machine.
 
-Any changes/updates or errors ping on me
+Any changes/updates or errors ping me 
 
 ## Built With
 
