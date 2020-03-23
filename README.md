@@ -1,5 +1,5 @@
 # PythonBasics
- Basics Fundamentals of Programming in C Lang.
+ 
  
 
 ## Getting Started
@@ -8,7 +8,7 @@ Programs build on Basic Python lang. Clone the project and run on your local mac
 
 ### Prerequisites
 
-C/C++ compiler 32/64 bit based on your system processesor
+Python compiler 32/64 bit based on your system processesor
 Recommended IDE:
 * Visual Studio Code
 * Jetbrains Pycharm
