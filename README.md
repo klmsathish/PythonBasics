@@ -8,9 +8,9 @@ Programs build on Basic Python lang. Clone the project and run on your local mac
 
 ### Prerequisites
 
-MySQL installer
+Python compiler 32/64 bit as your system requiremnts
 Recommended IDE:
-* MySQL Workbench
+* Jetbrains Pycharm
 * Visual Studio Code
 
 ### Installing
@@ -56,11 +56,13 @@ Any changes/updates or errors ping me
 * Python
 
 ## Topics Covered
-* **Queries Handling**
-* **Normalization 1NF,2NF,3NF**
-* **Applying Triggers**
-* **Foriegn Key,Super key,Primar key,Candidate key,Alternate key** 
-* **Applying Constraints**
-* **Creating Tables**
-* **Deletion With safe mode**
+* **String Operations**
+* **Condition Statements**
+* **Looping**
+* **Error Handling** 
+* **Object based Programming**
+* **File Handling**
+* **Graphical User Interface**
+* **Plotting Graphs**
+* **ASCII Conversion**
 
