@@ -8,10 +8,10 @@ Programs build on Basic Python lang. Clone the project and run on your local mac
 
 ### Prerequisites
 
-Python compiler 32/64 bit based on your system processesor
+MySQL installer
 Recommended IDE:
+* MySQL Workbench
 * Visual Studio Code
-* Jetbrains Pycharm
 
 ### Installing
 **1**. Visit the Visual Studio Code website to download the latest version of Visual Studio Code.
@@ -56,14 +56,11 @@ Any changes/updates or errors ping me
 * Python
 
 ## Topics Covered
-* **Regular Expressions**
-* **String Functions**
-* **Exception Handling**
-* **Looping** 
-* **Condition Statements**
-* **Functions**
-* **Modules**
-* **Objects**
-* **Recursive**
-* **Data Types**
+* **Queries Handling**
+* **Normalization 1NF,2NF,3NF**
+* **Applying Triggers**
+* **Foriegn Key,Super key,Primar key,Candidate key,Alternate key** 
+* **Applying Constraints**
+* **Creating Tables**
+* **Deletion With safe mode**
 
